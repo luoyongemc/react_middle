@@ -1,0 +1,25 @@
+{
+  "name": "react_middle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoyongemc/react_middle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoyongemc/react_middle/issues"
+  },
+  "homepage": "https://github.com/luoyongemc/react_middle#readme",
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "events": "^3.3.0"
+  }
+}
